@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chemical-Spider
+- 👀 I’m interested in making games, web dev, and learning how to code
+- 🌱 I’m currently learning How to make a discord bot, C#, Java, Javascript, Html, Css.
+- 📫 Find me on discord @Chem-Spider#7611
